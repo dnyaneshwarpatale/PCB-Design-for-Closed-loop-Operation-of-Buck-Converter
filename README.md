@@ -13,7 +13,8 @@
 ![Triangular](https://user-images.githubusercontent.com/108146924/192144616-a0eeb48e-28d0-44a3-ab6d-f445085146e8.png)
 
 5. Driver IC IR2118TC
-![Ir2118tc](https://user-images.githubusercontent.com/108146924/192144745-25981b32-97cf-4791-a1b5-b89458b1110a.png)
+![Ir2118tc](https://user-images.githubusercontent.com/108146924/192144919-e4195d18-860e-4fb5-8620-9a6b70af6292.png)
+
 
 5.Output of whole closed loop circuit 
 ![Out](https://user-images.githubusercontent.com/108146924/192144723-5ca131c9-0a5f-4668-a3dc-ef819d1062de.png)
