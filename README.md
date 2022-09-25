@@ -16,9 +16,9 @@
 ![Ir2118tc](https://user-images.githubusercontent.com/108146924/192144919-e4195d18-860e-4fb5-8620-9a6b70af6292.png)
 
 
-5.Output of whole closed loop circuit 
+6.Output of whole closed loop circuit 
 ![Out](https://user-images.githubusercontent.com/108146924/192144723-5ca131c9-0a5f-4668-a3dc-ef819d1062de.png)
 
-6. Designed PCB 
+7. Designed PCB 
 ![PCB](https://user-images.githubusercontent.com/108146924/192144875-c5b17c81-d9ef-4d6a-882b-813d46aad8d9.png)
 
