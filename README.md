@@ -14,6 +14,7 @@
 
 
 5. Driver IC IR2118TC
+
 ![Ir2118tc](https://user-images.githubusercontent.com/108146924/192144919-e4195d18-860e-4fb5-8620-9a6b70af6292.png)
 
 
